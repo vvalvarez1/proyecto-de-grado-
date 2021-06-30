@@ -1,0 +1,8 @@
+GroupConfigurationFileName,data2.csv
+Instances,10
+Threads,10
+SpawnDelay,0.05
+MaxTriesToSpawn,100
+AttemptsToCreateNewBox,100
+VelocityIterations,8
+PositionIterations,3
